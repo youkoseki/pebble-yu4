@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Yu Koseki",
+    "longName": "YU3",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "YU3",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "680a94ef-cf9e-4f6d-8452-e95f0b2f1910",
+    "versionLabel": "1",
+    "watchapp": {
+        "watchface": true
+    }
+}
